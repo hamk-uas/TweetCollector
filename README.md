@@ -1,8 +1,8 @@
 # TweetCollector
 Usage of Twitter Streaming API with TweePy and tweet collection to MongoDB server
 
-#How to use
-All parameters are set from own config file config.py
+# How to use
+All parameters are set from own config file config.py all parameters need to be set.
 
 ### MongoDB config parameters
 - mongo_server="YOUR SERVER ADDRESS HERE"
@@ -12,10 +12,10 @@ All parameters are set from own config file config.py
 - mongo_database="YOUR DATABASE NAME HERE"
 - mongo_collection="YOUR DATABSE COLLECTION NAME HERE"
 
-# Twitter keyword list
+### Twitter keyword list
 - twitter_keywords=["YOUR LIST OF KEYWRODS HERE"]
 
-# Twitter Customer key, customer secret, access token and access secret
+### Twitter Customer key, customer secret, access token and access secret
 - consumer_key="YOUR KEY HERE"
 - consumer_secret="YOUR SECRET HERE"
 - access_token="YOUR TOKEN HERE"
